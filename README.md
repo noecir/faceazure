@@ -4,7 +4,7 @@
 
 *Para mais detalhes, você pode consultar o artigo oficial sobre o Vision Studio* : https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/overview-vision-studio
 
-***Utizando detecção de faces***
+                             ***Utizando detecção de faces***
 
 1. Na página inicial do Microsoft Azure, selecione IA+Machine Learning:
 ![image](https://github.com/noecir/faceazure/assets/161195278/2002afd5-9e61-4661-90fc-74413a80209b)
@@ -25,7 +25,7 @@
 ![image](https://github.com/noecir/faceazure/assets/161195278/0b6917f2-b1a9-401e-a9b0-12a4e635eed3)
 
 
-***Utlizando a extração de textos para imagens***
+                     ***Utlizando a extração de textos para imagens***
 
 1. Selecione Extract text from images:
 ![Alt text](image.png)
@@ -35,7 +35,7 @@
 
 
 
-***Utizando o translator para tradução de documentos.***
+                ***Utizando o translator para tradução de documentos.***
 
 1. Em azure all services, selecione "translator" e crie um novo:
 ![image](https://github.com/noecir/faceazure/assets/161195278/14ad4acf-b60a-4293-b549-c11f892928f3)
