@@ -4,6 +4,8 @@
 
 *Para mais detalhes, você pode consultar o artigo oficial sobre o Vision Studio* : https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/overview-vision-studio
 
+Abaixo alguns passo-a-passo dos recursos do Vision Studio.
+
                              ***Utizando detecção de faces***
 
 1. Na página inicial do Microsoft Azure, selecione IA+Machine Learning:
