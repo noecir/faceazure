@@ -25,6 +25,16 @@
 ![image](https://github.com/noecir/faceazure/assets/161195278/0b6917f2-b1a9-401e-a9b0-12a4e635eed3)
 
 
+***Utlizando a extração de textos para imagens***
+
+1. Selecione Extract text from images:
+![Alt text](image.png)
+
+2. Selecione uma imagem:
+![Alt text](image-1.png)
+
+
+
 ***Utizando o translator para tradução de documentos.***
 
 1. Em azure all services, selecione "translator" e crie um novo:
