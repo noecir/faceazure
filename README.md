@@ -54,6 +54,8 @@ Abaixo alguns passo-a-passo dos recursos do Vision Studio.
 5. Coloque o texto e selecione o idioma que deseja a tradução:
 ![image](https://github.com/noecir/faceazure/assets/161195278/ecdf403b-0f96-4cab-923f-11cd017ad004)
 
+É isso pessoal, qualquer dúvidas e sugestões "tamo aí".
+
 
 
 
